@@ -141,13 +141,26 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-OmarTorres&show_icons=true&hide_border=true&bg_color=0d0018&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&count_private=true&ring_color=aa00ff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-OmarTorres&layout=compact&hide_border=true&bg_color=0d0018&title_color=ff00ff&text_color=ffffff&langs_count=7"/>
+<!-- Stats Card — synthwave theme nativo de anuraghazra, más estable con tema predefinido -->
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Dev-OmarTorres&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-OmarTorres&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<!-- Streak — usando github-readme-streak-stats con dominio propio más estable -->
+<img src="https://streak-stats.demolab.com?user=Dev-OmarTorres&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+
+<br/><br/>
+
+<!-- Profile Summary Cards — alternativa visual muy diferente y más robusta -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-OmarTorres&theme=synthwave" width="100%"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-OmarTorres&theme=midnight-purple&hide_border=true&background=0d0018&ring=FF00FF&fire=AA00FF&currStreakLabel=00FFFF&sideNums=ffffff&sideLabels=888888&dates=888888)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-OmarTorres&theme=synthwave" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev-OmarTorres&theme=synthwave" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-OmarTorres&theme=synthwave" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-OmarTorres&theme=synthwave&utcOffset=-6" height="150"/>
 
 </div>
 
@@ -157,7 +170,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dev-OmarTorres&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=Dev-OmarTorres&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -167,7 +180,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-OmarTorres&bg_color=0d0018&color=ff00ff&line=aa00ff&point=00ffff&area=true&hide_border=true&area_color=1a0030&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-OmarTorres&theme=react-dark&bg_color=0d0018&color=ff00ff&line=aa00ff&point=00ffff&area=true&hide_border=true&area_color=1a0030" width="100%"/>
 
 <br/>
 
