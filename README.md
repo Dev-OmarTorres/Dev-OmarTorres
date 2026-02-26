@@ -3,19 +3,13 @@
 <!-- CYBERPUNK NEON BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0018,30:3d0070,60:7b00d4,80:ff00ff,100:00ffff&height=15&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0018,50:1a0035,100:0d0018&height=180&text=%E2%96%93%E2%96%93%E2%96%93%20OMAR%20TORRES%20%E2%96%93%E2%96%93%E2%96%93&fontColor=aa00ff&fontSize=42&fontAlignY=40&desc=%2F%2F%20DESARROLLADOR%20WEB%20%2F%2F%20ANALISTA%20TI%20%2F%2F%20SAN%20LUIS%20POTOS%C3%8D%20MX&descAlignY=65&descSize=15&descColor=00ffff&stroke=ff00ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0018,50:1a0035,100:0d0018&height=180&text=Desarrollador%20Web&fontColor=aa00ff&fontSize=46&fontAlignY=50&stroke=ff00ff&strokeWidth=1" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,30:ff00ff,60:7b00d4,80:3d0070,100:0d0018&height=15&section=footer&reversal=true" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=800&lines=%5BSYSTEM+BOOT%5D+Iniciando+perfil...;%5BONLINE%5D+PHP+%7C+JavaScript+%7C+MySQL+%7C+Bootstrap+%7C+3D;%5BSTATUS%5D+%2B6+a%C3%B1os+de+experiencia+%E2%94%80+Disponible+para+remoto;%5BLOC%5D+San+Luis+Potos%C3%AD%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;%5BREADY%5D+Analista+TI+%26+Desarrollador+Web+%E2%96%BA_)](https://git.io/typing-svg)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=Dev-OmarTorres&color=ff00ff&style=for-the-badge&label=VISITAS)
-[![GitHub followers](https://img.shields.io/github/followers/Dev-OmarTorres?style=for-the-badge&color=aa00ff&labelColor=0d0018&logo=github&label=SEGUIDORES)](https://github.com/Dev-OmarTorres)
-[![Years Badge](https://badges.pufler.dev/years/Dev-OmarTorres?style=for-the-badge&color=00ffff&labelColor=0d0018&label=AÑOS+EN+GITHUB)](https://github.com/Dev-OmarTorres)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=800&lines=Bienvenido+a+mi+perfil+de+GitHub+%F0%9F%94%AE;PHP+%7C+JavaScript+%7C+MySQL+%7C+Bootstrap+%7C+3D;%2B6+a%C3%B1os+de+experiencia+%E2%80%94+Disponible+para+remoto;San+Luis+Potos%C3%AD%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Analista+TI+%26+Desarrollador+Web)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,8 +20,6 @@
 ## ⚡ STACK TECNOLÓGICO
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0018,100:1a0035&height=2&width=100%" width="100%"/>
 
 ### `</> LENGUAJES CORE`
 
@@ -57,9 +49,9 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Animaciones CSS](https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS Animations](https://img.shields.io/badge/CSS_Animations-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0ea5e9?style=for-the-badge&logo=css3&logoColor=white)
-![UI/UX Básico](https://img.shields.io/badge/UI%2FUX_Básico-FF6F61?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6F61?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -98,8 +90,8 @@
 
 ![Biometría](https://img.shields.io/badge/Integración_Biométrica-7952B3?style=for-the-badge&logo=fingerprint&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Integración_Hardware-6B7280?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Impresión Tickets](https://img.shields.io/badge/Impresión_de_Tickets-374151?style=for-the-badge&logo=printer&logoColor=white)
-![SMTP](https://img.shields.io/badge/Notificaciones_SMTP-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Impresión Tickets](https://img.shields.io/badge/Impresión_de_Tickets-374151?style=for-the-badge&logo=receipt&logoColor=white)
+![Notificaciones SMTP](https://img.shields.io/badge/Notificaciones_SMTP-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
@@ -117,7 +109,7 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Motion Graphics](https://img.shields.io/badge/Motion_Graphics-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Branding](https://img.shields.io/badge/Branding_&_Mockups-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Branding](https://img.shields.io/badge/Branding_%26_Mockups-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
@@ -141,18 +133,10 @@
 
 <div align="center">
 
-<!-- Stats Card — synthwave theme nativo de anuraghazra, más estable con tema predefinido -->
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Dev-OmarTorres&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-OmarTorres&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<!-- Streak — usando github-readme-streak-stats con dominio propio más estable -->
 <img src="https://streak-stats.demolab.com?user=Dev-OmarTorres&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 <br/><br/>
 
-<!-- Profile Summary Cards — alternativa visual muy diferente y más robusta -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-OmarTorres&theme=synthwave" width="100%"/>
 
 <br/>
@@ -181,10 +165,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-OmarTorres&theme=react-dark&bg_color=0d0018&color=ff00ff&line=aa00ff&point=00ffff&area=true&hide_border=true&area_color=1a0030" width="100%"/>
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/Dev-OmarTorres/Dev-OmarTorres/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
